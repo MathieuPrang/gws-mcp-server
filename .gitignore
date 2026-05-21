@@ -3,8 +3,6 @@ build/
 *.tsbuildinfo
 
 # Environment and secrets
-.env
-.env.*
 *.pem
 *.key
 *.p12
